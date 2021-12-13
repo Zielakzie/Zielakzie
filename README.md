@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Przemek
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning react
+- 📫 How to reach me przemek.zielinski01@gmail.com
